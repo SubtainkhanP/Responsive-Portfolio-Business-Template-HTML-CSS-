@@ -31,7 +31,7 @@ Run Project2.html in your browser
 
 🌐 Live Demo
 
-👉 [Live Website](https://subtainkhanp.github.io/Responsive-Portfolio-Business-Template-HTML-CSS-/Project2.html)
+👉 [Live Website]( https://subtainkhanp.github.io/Responsive-Portfolio-Business-Template-HTML-CSS-/)
 
   
 
