@@ -31,9 +31,9 @@ Run Project2.html in your browser
 
 🌐 Live Demo
 
-👉 Live Website
-👉 GitHub Pages Link
- (after you publish on GitHub Pages)
+👉 [Live Website](https://subtainkhanp.github.io/Responsive-Portfolio-Business-Template-HTML-CSS-/Project2.html)
+
+  
 
 👨‍💻 Author
 👉   Subtain Khan
